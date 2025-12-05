@@ -40,6 +40,7 @@ body {
     font-weight: bold;
     /*color: #3ca63c;*/
     color: hsl(221, 100%, 65%);
+    /*color: hsl(247, 74%, 63%);*/
     letter-spacing: 1px;
     cursor: pointer;
 }
@@ -60,7 +61,7 @@ body {
 }
 .nav-links a:hover {
     text-decoration: underline;
-    color: hsl(120, 49%, 51%);
+    color: hsl(247, 74%, 63%);
 }
 #home {
     min-height: calc(100vh - 70px);
